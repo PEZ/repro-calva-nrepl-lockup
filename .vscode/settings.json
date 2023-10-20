@@ -1,0 +1,9 @@
+{
+  "calva.replConnectSequences": [
+    {
+      "name": "Repro REPL",
+      "projectType": "deps.edn",
+      "autoSelectForJackIn": true
+    }
+  ]
+}
